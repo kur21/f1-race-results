@@ -36,7 +36,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd f1-race-results
 ```
 
 Install dependencies
